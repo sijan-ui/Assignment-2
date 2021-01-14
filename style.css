@@ -1,0 +1,24 @@
+
+.lol{
+    text-align: center;
+}
+.big{
+    font-size: 25px;
+}
+.button{
+    background-color: rgba(160, 216, 95, 0.616);
+    border-radius: 5px;
+}
+.size{
+    font-size: 20px;
+}
+
+
+.player{
+    display: flex(60px);
+    align-items: center;
+}
+.blog{
+    font-size: 15px;
+}
+
